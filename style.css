@@ -67,7 +67,7 @@ body {
   }
   
   .info-h1 {
-    font-size: 40px;
+    font-size: 2.5rem;
     font-style: normal;
     font-weight: 600;
     line-height: 45px;
@@ -83,7 +83,7 @@ body {
   }
   
   .info-para {
-    font-size: 16px;
+    font-size: 1rem;
     font-style: normal;
     font-weight: 300;
     line-height: 20px;
@@ -140,7 +140,7 @@ body {
     line-height: 20px;
     width: 450px;
     color: hsl(0, 93%, 68%);
-    margin-left: 30px;
+    margin-left: -300px;
     display: none;
   }
   
@@ -152,7 +152,7 @@ body {
     text-align: center;
     font-style: normal;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 1rem;
     line-height: 20px;
     color: hsl(229, 23%, 23%);
     background-color: black;
@@ -224,10 +224,7 @@ body {
  }
 
  .email-para{
-    margin-left: -50px;
+    margin-left: -400px;
  }
-
-
-
   }
 
